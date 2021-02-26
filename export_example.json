@@ -1,0 +1,42 @@
+{
+    "penny": {
+        "weight": 2.5,
+        "weight_unit": "grams",
+        "value": 0.01,
+        "value_unit": "USD",
+        "volume": 0,
+        "qty": 0,
+        "eff": 0.004,
+        "has": true
+    },
+    "nickle": {
+        "weight": 5,
+        "weight_unit": "grams",
+        "value": 0.05,
+        "value_unit": "USD",
+        "volume": 0,
+        "qty": 0,
+        "eff": 0.01,
+        "has": true
+    },
+    "dime": {
+        "weight": 2.2,
+        "weight_unit": "grams",
+        "value": 0.1,
+        "value_unit": "USD",
+        "volume": 0,
+        "qty": 8,
+        "eff": 0.045454545454545456,
+        "has": true
+    },
+    "quarter": {
+        "weight": 5.7,
+        "weight_unit": "grams",
+        "value": 0.25,
+        "value_unit": "USD",
+        "volume": 0,
+        "qty": 8,
+        "eff": 0.043859649122807015,
+        "has": true
+    }
+}
